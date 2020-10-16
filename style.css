@@ -1,0 +1,10 @@
+body {
+  background-color: rgb(207, 194, 186);
+  color: rgb(77, 73, 73);
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  letter-spacing: 1px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 30vh;
+}
