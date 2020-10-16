@@ -8,3 +8,44 @@ body {
   align-items: center;
   min-height: 30vh;
 }
+
+.container {
+  background-color: burlywood;
+  padding: 3rem;
+  border: white 2px solid;
+  border-radius: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.header {
+  margin: 0;
+}
+
+.passwordBox {
+  background-color: black;
+  color: white;
+  padding: 1rem;
+  height: 2rem;
+  width: 250px;
+  border-radius: 10px;
+  border: white 2px solid;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+.numberBox {
+  width: 30px;
+}
+
+.button {
+  background: transparent;
+  width: 100%;
+  margin-top: 2rem;
+  margin-bottom: 0;
+  border-radius: 5px;
+  border: white 2px solid;
+  font-family: sans-serif;
+}
