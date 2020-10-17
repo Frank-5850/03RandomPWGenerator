@@ -1,16 +1,17 @@
 body {
   background-color: rgb(207, 194, 186);
   color: rgb(77, 73, 73);
-  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  min-height: 60vh;
   letter-spacing: 1px;
   display: flex;
   justify-content: center;
   align-items: center;
-  min-height: 30vh;
 }
 
 .container {
-  background-color: burlywood;
+  background-color: rgb(201, 238, 233);
+  font-weight: bold;
   padding: 3rem;
   border: white 2px solid;
   border-radius: 15px;
