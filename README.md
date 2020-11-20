@@ -9,7 +9,7 @@ HTML, CSS, and JavaScript
 This application is used to create a random password. It also allows users to input their own parameters such as lower case letters, upper case letters, symbols, and numbers.
 
 This project has been deployed to GitHub Pages. To test it out yourself, you can follow this deployment link:
-https://github.com/Frank-5850/03RandomPWGenerator.git
+file:///C:/Users/phanf/dev/03JavaScript/Homeowrk/RandomPasswordGenerator.html
 
 # Demo Preview
 
