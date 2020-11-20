@@ -29,7 +29,7 @@ body {
   background: transparent;
   padding: 1rem;
   height: 2rem;
-  width: 250px;
+  width: auto;
   border-radius: 10px;
   border: white 2px solid;
   text-align: center;
